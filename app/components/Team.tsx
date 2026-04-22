@@ -5,7 +5,7 @@ const team = [
     specialty: "Classic Cuts & Razor Work",
     years: "12 yrs",
     initial: "MR",
-    photo: "/team/MarcoReyes.png",
+    photo: "/team/MarcoReyes.webp",
   },
   {
     name: "Luis Santos",
@@ -13,7 +13,7 @@ const team = [
     specialty: "Fades & Modern Styles",
     years: "8 yrs",
     initial: "LS",
-    photo: "/team/LuisSantos.png",
+    photo: "/team/LuisSantos.webp",
   },
   {
     name: "Dani Flores",
@@ -21,7 +21,7 @@ const team = [
     specialty: "Beard Sculpting & Kids",
     years: "7 yrs",
     initial: "DF",
-    photo: "/team/DaniFlores.png",
+    photo: "/team/DaniFlores.webp",
   },
   {
     name: "Carlo Bautista",
@@ -29,7 +29,7 @@ const team = [
     specialty: "Hair Color & Treatments",
     years: "4 yrs",
     initial: "CB",
-    photo: "/team/CarloBautista.png",
+    photo: "/team/CarloBautista.webp",
   },
 ];
 

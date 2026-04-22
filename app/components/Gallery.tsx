@@ -1,10 +1,10 @@
 const galleryItems = [
-  { label: "Taper Fade", size: "tall", img: "/gallery/TaperFade.png" },
-  { label: "Scissor Cut", size: "wide", img: "/gallery/ScissorCut.png" },
-  { label: "Beard Sculpt", size: "normal", img: "/gallery/BeardSculpt.png" },
-  { label: "Hot Towel Shave", size: "normal", img: "/gallery/HotTowelShave.png" },
-  { label: "Classic Pompadour", size: "tall", img: "/gallery/ClassicPompadour.png" },
-  { label: "Scalp Treatment", size: "wide", img: "/gallery/ScalpTreatment.png" },
+  { label: "Taper Fade", size: "tall", img: "/gallery/TaperFade.webp" },
+  { label: "Scissor Cut", size: "wide", img: "/gallery/ScissorCut.webp" },
+  { label: "Beard Sculpt", size: "normal", img: "/gallery/BeardSculpt.webp" },
+  { label: "Hot Towel Shave", size: "normal", img: "/gallery/HotTowelShave.webp" },
+  { label: "Classic Pompadour", size: "tall", img: "/gallery/ClassicPompadour.webp" },
+  { label: "Scalp Treatment", size: "wide", img: "/gallery/ScalpTreatment.webp" },
 ];
 
 const patterns = [

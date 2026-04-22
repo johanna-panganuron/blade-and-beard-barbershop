@@ -15,7 +15,7 @@ export default function About() {
           <div className="relative">
             <div className="aspect-square max-w-md bg-smoke relative overflow-hidden">
               <img
-                src="/about/interior.png"
+                src="/about/interior.webp"
                 alt="Blade & Beard Interior"
                 className="absolute inset-0 w-full h-full object-cover"
               />

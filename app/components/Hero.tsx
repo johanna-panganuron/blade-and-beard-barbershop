@@ -84,7 +84,7 @@ export default function Hero() {
               {/* Simulated barbershop image with CSS art */}
               <div className="absolute inset-0 overflow-hidden">
                 <img
-                  src="/hero/barbershop-bg.png"
+                  src="/hero/barbershop-bg.webp"
                   alt="Blade & Beard Barbershop"
                   className="absolute inset-0 w-full h-full object-cover object-center"
                 />
