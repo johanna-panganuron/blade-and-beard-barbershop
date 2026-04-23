@@ -78,7 +78,7 @@ export default function Footer() {
           </p>
           <p className="text-cream/10 text-xs">
             <a 
-              href="https://johanna-panganuron.vercel.app" 
+              href="https://johannapanganuron.vercel.app" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-gold transition-colors duration-300"
